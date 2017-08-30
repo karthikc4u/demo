@@ -6,4 +6,4 @@ Using this to practise the first checkin into git
 
 Changes to explain diff
 
-Just some updates on a branch..
+I hope this isnt much of a problem.
