@@ -6,4 +6,4 @@ Using this to practise the first checkin into git
 
 Changes to explain diff
 
-This is bound to cause trouble!
+Just something going on
